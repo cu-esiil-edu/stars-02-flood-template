@@ -19,6 +19,12 @@ There are 3 parts to this coding challenge:
 
   1. Complete the analysis notebooks in this repository with the sample data
   2. Complete the download notebook in this repository to practice accessing data
-  3. Come up with your own scientific question you can answer or explore with similar data. Then, reproduce the analysis, and upload a post to your data science portfolio webpage to show off your work!
+  3. Write a portfolio post:
+     
+       a. Come up with your own scientific question you can answer or explore with similar data
+       b. Create a new notebook in this repository
+       b. Reproduce the analysis to help answer your question
+       c. Write a portfolio post explaining your results
+       d. Upload the post to your data science portfolio webpage to show off your work!
 
 Do your best to finish all three parts of the coding challenge by the end of the summer. We're here to help! And so are your professors and fellow students.
