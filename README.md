@@ -1,4 +1,4 @@
-# Stars Coding Challenge: Flooding on the Cheyenne River
+# Stars Coding Challenge 2: Flooding on the Cheyenne River
 
 In March 2019, large parts of South Dakota were flooded for weeks. What happened to cause this flooding? What were the impacts on local communities? You will use environmental data to determine where and when flooding happened and how long it lasted. Then, you'll use that same data to put the floods in context historically and discuss how to plan for future disasters.
 
